@@ -50,7 +50,6 @@ $(header_button).click(function(){
         ham.css('flex-direction', 'column')
         ham.css('left', '0px')
         ham.css('background-color', '#4e279e')
-        // ham.css('height', '10vh')
         ham.css('padding', '3vh 10vw')
         item.css('font-size', '3.5vw')
         item.css('padding-bottom', '1vh')
