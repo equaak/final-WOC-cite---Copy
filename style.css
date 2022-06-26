@@ -908,11 +908,9 @@ a{
     }
 
     .phone_paralax{
-        background-image: url(img/parallax.jpg);
+        background-image: url(img/parallax.jpg) no-repeat center center;
         background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-        background-repeat: no-repeat;
+        background-attachment: fixed !important;
         height: 40vh;
     }
 
@@ -1200,17 +1198,17 @@ a{
     }
 
     .fiform{
-        height: 3vh;
+        height: 15vh;
     }
 
     .fiform1{
-        height: 100%;
+        height: 5vh;
         width: 60%;
         font-size: 5vw;
     }
 
     .fiform2{
-        height: 100%;
+        height: 5vh;
         width: 35%;
     }
 
